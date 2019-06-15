@@ -2,7 +2,6 @@ class Paper{
   String _text;
   void write(String text)=>_text=text;
   void printText()=>print(_text);
-  
 }
 class Pencil{
   int _ink;
