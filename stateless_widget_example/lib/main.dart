@@ -28,7 +28,6 @@ class MyApp extends StatelessWidget{
     );
   }
 }
-
 class CardWidget extends StatelessWidget{
   final Widget title;
   final Widget icon;
