@@ -34,7 +34,6 @@ class CardPage extends StatelessWidget {
           SizedBox(height: 15),
           _cardType2(),
           SizedBox(height: 15,),
-          
         ],
       ),
     );
